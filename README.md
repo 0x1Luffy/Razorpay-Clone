@@ -1,5 +1,7 @@
 # Razorpay-Clone
-This is clone of a payment site called Razorpay. I made this site using Tailwind CSS, JavaScript, HTML. 
+This is clone of a payment site called Razorpay. I made this site using Tailwind CSS, JavaScript, HTML.
+
+
 INSTALL TAILWIND AND CHECK IF NODE MODULES FOLDER IS CREATED IN THE SAME FOLDER OF THE PROJECT.
 "I HAVE NOT UPLOADED THE NODE MODULE FOLDER BECAUSE WE CANNOT UPLOAD MOERE THAN 100 FILES ON GITUB".
 THANK YOU.
